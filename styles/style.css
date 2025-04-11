@@ -149,8 +149,6 @@
 }
 
 .lots__card-list {
-  margin: 0;
-  padding: 0;
   display: flex;
   gap: 25px;
   list-style-type: none;
